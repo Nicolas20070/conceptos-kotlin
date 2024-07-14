@@ -1,9 +1,3 @@
-En Kotlin, las enumeraciones (enum class) proporcionan una manera eficaz 
-de definir un conjunto de constantes que representan opciones específicas 
-o estados. Esto es útil cuando deseas limitar las opciones válidas para un 
-parámetro o una variable a un conjunto predefinido de valores
-
-EJEMPLO:
 // Definición de una enumeración para representar estados civiles
 enum class EstadoCivil {
     SOLTERO,
