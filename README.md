@@ -19,3 +19,9 @@ En Kotlin, las enumeraciones (enum class) proporcionan una manera eficaz
 de definir un conjunto de constantes que representan opciones específicas 
 o estados. Esto es útil cuando deseas limitar las opciones válidas para un 
 parámetro o una variable a un conjunto predefinido de valores
+
+---VARIABLES---
+
+Las variables se entienden como espacios de memoria donde se puede almacenar 
+información. Además, dependiendo del tipo de información, se dispone de diversas 
+variables, lo que contribuye a la prevención de inconvenientes. 
